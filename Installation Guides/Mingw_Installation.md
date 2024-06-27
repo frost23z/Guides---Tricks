@@ -1,5 +1,7 @@
 # Mingw Installation
 
+This document will guide you through the installation of Mingw on Windows using msys2.
+
 1.  Download msys2 from [here](https://www.msys2.org/) and install it.
 
 2.  Open the msys2 msys terminal and run the following commands:
